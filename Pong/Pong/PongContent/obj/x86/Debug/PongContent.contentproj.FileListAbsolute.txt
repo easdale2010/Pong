@@ -1,0 +1,6 @@
+F:\HNC Games Dev\Programming\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HNC Games Dev\Programming\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\HNC Games Development\Semester 1\SPG\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HNC\Programmig\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HNC\Programmig\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\year2\Programming\Pong\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
